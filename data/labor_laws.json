@@ -1,0 +1,40 @@
+{
+    "case_studies": [
+      {
+        "id": "CS001",
+        "title": "Overtime Pay Dispute",
+        "summary": "An employee sued their employer for unpaid overtime, claiming they were misclassified as exempt.",
+        "outcome": "The court ruled in favor of the employee, ordering the employer to pay back wages and damages.",
+        "key_points": [
+          "Importance of proper employee classification",
+          "Employers must keep accurate time records",
+          "Non-exempt employees are entitled to overtime pay"
+        ],
+        "relevant_laws": ["Fair Labor Standards Act", "State Labor Code"]
+      },
+      {
+        "id": "CS002",
+        "title": "Workplace Discrimination",
+        "summary": "An employee filed a complaint alleging racial discrimination in hiring and promotion practices.",
+        "outcome": "The case was settled out of court, with the employer agreeing to implement new diversity training and revise hiring policies.",
+        "key_points": [
+          "Importance of unbiased hiring and promotion practices",
+          "Need for clear anti-discrimination policies",
+          "Value of diversity training in the workplace"
+        ],
+        "relevant_laws": ["Title VII of the Civil Rights Act", "State Fair Employment Practices Act"]
+      },
+      {
+        "id": "CS003",
+        "title": "Wrongful Termination",
+        "summary": "An employee claimed they were fired for reporting safety violations to OSHA.",
+        "outcome": "The court found in favor of the employee, citing whistleblower protection laws.",
+        "key_points": [
+          "Whistleblower protections for employees reporting violations",
+          "Importance of proper termination procedures",
+          "Employer's obligation to maintain a safe workplace"
+        ],
+        "relevant_laws": ["Occupational Safety and Health Act", "Whistleblower Protection Act"]
+      }
+    ]
+  }

@@ -1,0 +1,28 @@
+{
+    "model": "Llama-3.1-70b-Versatile",
+    "languages": ["en", "es", "fr", "hi", "ta", "te", "kn", "bn", "ml", "pa", "gu", "or"],
+    "max_response_length": 500,
+    "temperature": 0.7,
+    "api_base": "https://api.groq.com/openai/v1",
+    "debug_mode": true,
+    "log_file": "chatbot.log",
+    "data_paths": {
+        "labor_laws": "data/labor_laws.json",
+        "case_studies": "data/case_studies.json",
+        "language_models": "data/language_models/"
+    },
+    "voice_interface": {
+        "enabled": true,
+        "speech_recognition_engine": "google",
+        "text_to_speech_engine": "pyttsx3"
+    },
+    "legal_analysis": {
+        "max_relevant_laws": 5,
+        "max_relevant_cases": 3
+    },
+    "user_interface": {
+        "theme": "light",
+        "font_size": "medium",
+        "language_selection": true
+    }
+}
